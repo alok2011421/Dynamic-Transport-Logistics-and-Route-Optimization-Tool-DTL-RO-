@@ -1,0 +1,7 @@
+Route: ['O1', 'O5', 'O2']
+Route: ['O1', 'O5', 'O2']
+Route: ['O1', 'O5', 'O2']
+Optimized Route: ['O1', 'O5', 'O2']
+Optimized Route: ['O1', 'O2']
+Optimized Route: ['O1', 'O2']
+Optimized Route: ['O1', 'O2']

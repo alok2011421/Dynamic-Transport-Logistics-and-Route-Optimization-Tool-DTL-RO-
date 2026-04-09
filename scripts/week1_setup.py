@@ -1,0 +1,1 @@
+print("Module 1: Env Setup. Python and VS Code are ready.")
